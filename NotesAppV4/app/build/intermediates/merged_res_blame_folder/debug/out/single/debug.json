@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_5.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_bg_btn_stop.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\bg_btn_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\layout_item_note.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\layout\\item_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_bg_delete_btn.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\bg_delete_btn.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_3.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_3.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_bg_btn_dictate.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\bg_btn_dictate.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_1.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_1.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.notesapp-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_4.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_4.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\menu_menu_editor.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_2.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_2.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\layout_activity_editor.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\layout\\activity_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-merged_res-32:\\drawable_dot_color_0.xml.flat",
+        "source": "C:\\Users\\Vito\\.gradle\\daemon\\8.9\\com.example.notesapp-main-34:\\drawable\\dot_color_0.xml"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.notesapp-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.notesapp-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
